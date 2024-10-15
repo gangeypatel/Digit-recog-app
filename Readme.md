@@ -1,4 +1,4 @@
-# Flask Server for CSE 535 Project
+# Flask Server for Project
 
 
 ## Firebase Setup
